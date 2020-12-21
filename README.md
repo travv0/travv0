@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 I like Common Lisp and Haskell and sometimes some other languages and I sometimes program in them.
 
-![My stats](https://github-readme-stats.vercel.app/api/?username=travv0&theme=tokyonight&hide=prs,issues)
+![My stats](https://github-readme-stats.vercel.app/api/?username=travv0&theme=tokyonight&hide=prs,issues&hidden=true)
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=travv0&theme=tokyonight)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=travv0&theme=tokyonight&hidden=true)
