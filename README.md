@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **travv0/travv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I like Common Lisp and Haskell and sometimes some other languages and I sometimes program in them.
+
+![My stats](https://github-readme-stats.vercel.app/api/?username=travv0&theme=tokyonight&hide=prs,issues)
+
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=travv0&theme=tokyonight)
