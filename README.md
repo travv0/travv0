@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like Common Lisp and Haskell and sometimes some other languages and I sometimes program in them.
+I like Haskell and sometimes some other languages and I sometimes program in them.
 
 ![My stats](https://github-readme-stats.vercel.app/api/?username=travv0&theme=tokyonight&hide=prs,issues)
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=travv0&theme=tokyonight)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=travv0&theme=tokyonight&layout=compact&langs_count=10&exclude_repo=lisp-game-jam-2020-spring)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=travv0&layout=compact&theme=tokyonight)
